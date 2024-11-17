@@ -5,7 +5,7 @@
 ## 使用步骤
 
 1. **下载预训练权重**
-   - 从官方或指定来源下载 Swin UNETR 的预训练权重。
+   - 从官方或指定来源下载 Swin UNETR 的预训练权重。https://share.weiyun.com/QsHDRqw5
 
 2. **下载数据集**
    - 获取并下载所需的 CT 图像数据集。
